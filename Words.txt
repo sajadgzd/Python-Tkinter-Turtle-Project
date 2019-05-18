@@ -1,4 +1,4 @@
 Hello there!
 This is a test for the PYTHON PROJECT !!
 
-Just trying to TEST it in   different ways
+Just trying to TEST it in many  different ways
